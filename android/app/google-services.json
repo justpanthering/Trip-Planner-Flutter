@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "624197309115",
+    "project_id": "trip-planner-6747a",
+    "storage_bucket": "trip-planner-6747a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624197309115:android:c6599678b533c23ca64f9e",
+        "android_client_info": {
+          "package_name": "com.justpanthering.trip"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIG8mhEoNBempJCCGUZToswcVuMHBcYLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
