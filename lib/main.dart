@@ -15,6 +15,7 @@ void main() async {
   // This prevents a sudden theme change when the app is first displayed.
   await settingsController.loadSettings();
 
+  // tells Flutter not to start running the application widget code until the Flutter framework is completely booted. Firebase uses native platform channels, which require the framework to be running.
   WidgetsFlutterBinding.ensureInitialized();
   // Initialize Firebase using the DefaultFirebaseOptions object exported by the configuration file
   await Firebase.initializeApp(
